@@ -8,5 +8,6 @@
 
 import Foundation
 
-print("Hello, World!")
+
+var jgArr = JGArray()
 
